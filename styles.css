@@ -1,0 +1,368 @@
+
+#bodynews {
+    
+    margin:0 auto;
+    font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+    background-image: url("media/metropolis.png");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    
+}
+
+#paper {
+    background-color: white;
+    height: 2300px;
+    width:1025px;
+    margin:40px 0px 0px 125px;
+    z-index: 10;
+    position:absolute;
+    top:0;
+    
+}
+
+#band {
+    top:70px;
+    left:125px;
+    background-color: #ddd;
+    width: 1025px;
+    height:40px;
+    margin:0px;
+    color: white;
+    font-weight:200;
+    font-size: 34px;
+    cursor: pointer;
+    position: absolute;
+    z-index: 20;
+    background-image: url("media/metropolis.png");
+    background-attachment: fixed;
+    background-size:cover;
+}
+#logo {
+    
+    width: 30px;
+    margin-left: 20px;
+    margin-right:5px;     
+    margin-top: 5px;
+    z-index: 2;
+}
+
+
+#menu {
+    top:70px;
+    left:245px;
+    height: 40px;
+    margin:0px;
+    font-weight:200;
+    font-size: 34px;
+    position: absolute;
+    z-index: 20;
+}
+ a.change:link {text-decoration:none; color:white;} /* Link no visitado*/
+ a.change:visited {text-decoration:none; color:white} /*Link visitado*/
+ a.change:active {text-decoration:none; color:black; background:none} /*Link activo*/
+ a.change:hover {text-decoration:none; color:black; background: none} /*Mause sobre el link*/
+
+
+
+
+#mail {
+    z-index: 50;
+    position: fixed;
+    right: -45px;
+    top: 70%;
+    color: white;
+    background-color: #aaa;
+    padding: 5px 9px 5px 7.2px;
+    text-decoration: none;
+    transition: right 0.5s;
+    font-size: 22px;
+    font-weight:200;
+    border-bottom-left-radius:5px;
+    border-top-left-radius:5px;
+    
+}
+#mail:hover {
+    right: -1px;
+    background-color: #888;
+  
+}
+
+#indexlogo {
+    width: 30%;
+    top:40%;
+    left:35%;
+    
+    
+    z-index: 2;
+    position:fixed;
+    cursor:pointer;
+    
+        
+}
+
+
+
+footer {
+    height:200px;
+    width:100%;
+    
+    margin:300px 0px 0px 0px;
+    position:absolute;
+    background-color:;
+    z-index:30;
+}
+
+
+
+
+#uno {
+   
+
+      height:450px;
+    width:450px;
+    background-color:yellow;
+    z-index:20;
+    position:relative;
+    top:150px;
+    left:170px;
+    background-image: url("media/metropolis.png");
+    background-size:cover;
+    background-attachment: fixed;
+    border-radius:100%;
+   
+}
+
+#cv {
+    height:661.17px;
+    width:467.5px;
+    left:637.5px;
+    margin:0px 0px 0px 20px;
+    background-color:;
+    z-index:20;
+    position:absolute;
+    top:150px;
+    color:white;
+    
+    
+    
+
+        
+   
+        
+    
+}
+
+
+
+
+
+
+
+#bodyinteriors {
+    margin:0 auto;
+    font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+    background-image: url("media/DSC09954");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+#bandinteriors {
+     top:70px;
+    left:125px;
+    background-color: #ddd;
+    width: 1025px;
+    height:40px;
+    margin:0px;
+    color: white;
+    font-weight:200;
+    font-size: 34px;
+    cursor: pointer;
+    position: absolute;
+    z-index: 20;
+    background-image: url("media/DSC09954.JPG");
+    background-attachment: fixed;
+    background-size:contain;
+}
+
+#bodyindex {
+        margin:0 auto;
+    font-family: 'helvetica neue', 'helvetica', 'arial', sans-serif;
+    background-image: url("media/Mi%20primer%20proyecto.mp4");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    
+}
+
+#video {
+position: fixed; right: 0; bottom: 0;
+min-width: 100%; min-height: 100%;
+width: auto; height: auto; z-index: -100;
+background: url(media/Mi%20primer%20proyecto.mp4) no-repeat;
+background-size: cover;
+}
+
+
+
+
+
+#seis {
+      height:935px;
+    width:935px;
+    left:170px;
+    margin:100px 0px 0px 0px;
+    background-color:;
+    z-index:20;
+    position:relative;
+    top:150px;
+    background-image: url("media/ALBERTODIEZ_PAR%C3%81SITO.jpg");
+    background-size:cover;
+
+}
+
+#siete {
+      height:935px;
+    width:935px;
+    left:170px;
+    margin:100px 0px 0px 0px;
+    background-color:;
+    z-index:20;
+    position:relative;
+    top:150px;
+    background-image: url("media/ALBERTODIEZ_PAR%C3%81SITO.jpg");
+    background-size:cover;
+
+}
+
+#ocho {
+      height:935px;
+    width:935px;
+    left:170px;
+    margin:100px 0px 0px 0px;
+    background-color:;
+    z-index:20;
+    position:relative;
+    top:150px;
+    background-image: url("media/ALBERTODIEZ_PAR%C3%81SITO.jpg");
+    background-size:cover;
+
+}
+
+#nueve {
+      height:935px;
+    width:935px;
+    left:170px;
+    margin:100px 0px 0px 0px;
+    background-color:;
+    z-index:20;
+    position:relative;
+    top:150px;
+    background-image: url("media/ALBERTODIEZ_PAR%C3%81SITO.jpg");
+    background-size:cover;
+
+}
+
+#two {
+    height:661.17px;
+    width:935px;
+    left:170px;
+    margin:0px 0px 50px 0px;
+    background-color:;
+    z-index:20;
+    position:relative;
+    top:150px;
+    background-image: url("media/2.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+
+ul {
+    list-style:none;
+    margin:0;  
+    padding:0;  
+    list-style-type:none; 
+}
+
+table {
+    font-family: helvetica;
+    font-size:10px;
+    
+}
+
+#window {
+    height:427.5px;
+    width:427.5px;
+    z-index:20;
+    position:absolute;
+    top:150px;
+    left:167.5px;
+    background-image: url("media/metropolis.png");
+    background-attachment: fixed;
+    background-size:cover;
+    border-radius:100%;
+    background-repeat:no-repeat;
+    display:inline-block
+        
+}
+
+#papercv {
+    background-color: white;
+    height: 1000px;
+    width:512.5px;
+    margin:40px 0px 0px 125px;
+    z-index: 10;
+    position:absolute;
+    top:0;
+}
+
+.tittle {
+    padding-top: 10px;
+}
+
+td {
+    padding-top:5px;
+}
+
+#one {
+    height:661.17px;
+    width:935px;
+    left:170px;
+    margin:0px 0px 50px 0px;
+    background-color:;
+    z-index:20;
+    position:relative;
+    top:150px;
+    background-image: url("media/1.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+    
+
+
+#tres {
+    height:661.17px;
+    width:935px;
+    left:170px;
+    margin:0px 0px 50px 0px;
+    background-color:ed;
+    z-index:20;
+    position:relative;
+    top:150px;
+    background-image: url("media/3.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+
+h1 {
+    
+}
+
+.text {
+    width:387.5px;
+    margin:0px 0px 0px 40px;
+    padding:40px 0px 0px 0px;
+    font-size:10px;
+        
+}
